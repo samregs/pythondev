@@ -28,5 +28,5 @@ def main():
     apoddata = picture_of_the_day()
     print(apoddata)
 
-if __name__ == "__main__":
+if __name__ == jls_extract_var:
     main()
